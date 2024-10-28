@@ -37,6 +37,7 @@
 
  ## OUTPUT
  
- 
+ ![Manasa 1 2 v1_page-0001](https://github.com/user-attachments/assets/9e5698c4-4304-41b4-bad3-0f17760a37b5)
+
  ## RESULT
  Thus the given sketch is drawn and drafted using fusion 360 tool.
